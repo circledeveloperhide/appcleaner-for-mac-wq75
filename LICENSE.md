@@ -1,4 +1,4 @@
-
+Enhance AppCleaner for macOS with AppCleaner for macOS custom Helper: virtualization & duplicate-finder, the #1 helper. Includes virtualization and duplicate-finder for a smoother
 
 
 
